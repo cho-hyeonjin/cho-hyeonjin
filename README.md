@@ -1,4 +1,4 @@
-## 어제보다 오늘 더 성장하는 개발자 조현진입니다. ##
+# Hi, I'm Hyeonjin 🙂 #
 ___
 <img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
