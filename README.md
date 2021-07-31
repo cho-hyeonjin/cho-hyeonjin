@@ -1,4 +1,4 @@
-# Hi, I'm Hyeonjin!👋🏻
+# Hi, I'm Hyeonjin! 👋🏻
 <img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 <!--
