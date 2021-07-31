@@ -1,7 +1,6 @@
 ## 어제보다 오늘 더 성장하는 개발자 조현진입니다. ##
 ___
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=Red" />
+<img src="https://img.shields.io/badge/-gusls2005%40gmail.com-fa4113-EA4335?style=plastic&logo=Gmail&logoColor=white" />
 
 <!--
 **cho-hyeonjin/cho-hyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
