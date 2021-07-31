@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
-
 ## 안녕하세요. 프론트엔드 개발자 조현진입니다.🙂
+
+<img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 ___
 
 저는
