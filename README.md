@@ -5,6 +5,9 @@
 
 ##### 저는
 
+
+
+<!--
 ###### 😎 인간과 기술이 만들어 갈 미래에 대한 관심이 높습니다.
 😎 편안하고 배려심이 깊은 사람들을 존경하며, 저 또한 그런 사람이 되고 싶습니다.
 😎 완벽함보다는 실패를 이기는 꾸준함을 추구합니다.
@@ -18,20 +21,6 @@
 
 
 #### 💪🏻 오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내려 합니다.
-
-<!--
-**cho-hyeonjin/cho-hyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## 🪄 Skills
