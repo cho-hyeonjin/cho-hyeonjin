@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
 ## 안녕하세요. 프론트엔드 개발자 조현진입니다.🙂
-
+___
 
 저는
 
@@ -23,7 +23,7 @@ ___
 ___
 
 #### **💪🏻 오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내려 합니다.**
-__
+___
 
 # 🪄 Skills
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
