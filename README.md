@@ -23,9 +23,7 @@ ___
 ___
 
 #### **💪🏻 오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내려 합니다.**
+__
 
-<!--
--->
-
-## 🪄 Skills
+# 🪄 Skills
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
