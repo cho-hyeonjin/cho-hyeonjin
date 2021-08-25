@@ -24,10 +24,10 @@ ___
 
 ___
 ###                   *LIVE TODAY !*
-#### **💪🏻  오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내려 합니다.**
+#### **💪🏻 &nbsp; 오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내려 합니다.**
 ___
 
-# 🪄 Skills
+# 🪄 Stack
 <!--
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
