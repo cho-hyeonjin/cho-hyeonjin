@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/-gusls2005%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
 
-**안녕하세요. 개발을 공부하고 있는 조현진이라고 합니다.🙂**
+### 안녕하세요. 개발을 공부하고 있는 조현진이라고 합니다.🙂
 
 **저는**
 
