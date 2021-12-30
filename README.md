@@ -28,5 +28,10 @@
 ### 💪🏻&nbsp; 오늘 하루는 내가 꿈꾸는 미래와 닮은 모습으로 보내자!
 ## 
 
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cho-hyeonjin&show_icons=true&theme=radical"  width=50%
+  height=auto />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho-hyeonjin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho-hyeonjin&layout=compact&hide_border=true)](https://github.com/cho-hyeonjin)  
+  
+
