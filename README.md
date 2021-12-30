@@ -3,7 +3,7 @@
 
 
 # 안녕하세요. 프론트엔드 개발자 조현진 입니다. 🙂
-![Gmail](https://img.shields.io/badge/guglg2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:gusls2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/guglg2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 &nbsp;
 
