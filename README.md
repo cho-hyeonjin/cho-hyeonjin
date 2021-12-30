@@ -3,8 +3,9 @@
 
 
 # 안녕하세요. 프론트엔드 개발자 조현진 입니다. 🙂
-
 ![Gmail](https://img.shields.io/badge/guglg2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+&nbsp;
 
 ### 🚀  ***JavaScript*** 로 개발 공부를 시작했습니다.
 
