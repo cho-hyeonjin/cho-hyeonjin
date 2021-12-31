@@ -50,9 +50,12 @@
 ## 
 
 <a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cho-hyeonjin&show_icons=true&theme=radical" />
+
+<!-- <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cho-hyeonjin&show_icons=true&theme=radical"  width=50%
   height=auto />
-
+ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho-hyeonjin&layout=compact&hide_border=true)](https://github.com/cho-hyeonjin)   -->
   
 
