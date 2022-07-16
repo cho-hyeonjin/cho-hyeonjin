@@ -54,3 +54,54 @@
   \- &nbsp; 2022.07.16.토 🏡 내 방 컴퓨터 앞에서 :) &nbsp; -
 
 </div>
+
+&nbsp; 
+
+&nbsp; 
+
+<div align="center">
+  <h1>💬 Language 🗣</h1>
+    <h3>Main</h3>
+      <img 
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"
+        height=30
+      >
+    <h3>Comming soon</h3>
+      <div align="center">
+        <img
+          src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"
+          height=30
+        >  
+        &nbsp; 
+        <img
+         src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"
+         height=30
+         >
+         &nbsp; 
+      </div>
+      
+&nbsp;
+
+&nbsp;
+      
+  <h1>🧰 Framework & Library 🏗</h1>
+    <h3>Main</h3>
+          <img 
+            src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+            height=30
+          >
+    <h3>Sub</h3>
+      <div align="center">
+        <img
+          src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+          height=30
+        >  
+        &nbsp; 
+      </div>
+    <h3>Comming soon</h3>
+      <div align="center">
+        <img
+          src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+          height=30
+        >  
+</div>
