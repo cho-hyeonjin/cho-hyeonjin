@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1617818520580-ZBJKDF709IPXG52RGEDU/io_ot.jpg?format=2500w" width=900>
+  <img
+    src="https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1617818520580-ZBJKDF709IPXG52RGEDU/io_ot.jpg?format=2500w"
+    width=800
+  >
 </div>
 
 <br/>
