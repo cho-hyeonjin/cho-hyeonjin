@@ -4,8 +4,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cho-hyeonjin&langs_count=10&layout=compact)
 
-> ### “If you can't explain it to a six-year-old, you don't understand it yourself.”
-> #### - Albert Einstein
+> ### Done is better than perfect.
+>
+> 하루하루 알아가고 찾아가는 중 💭
 
 ## 조현진
 안녕하세요. 프론트엔드 개발자 조현진입니다 :)
