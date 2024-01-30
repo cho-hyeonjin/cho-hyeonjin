@@ -12,7 +12,7 @@
 
 # Hi!👋🏻 I'm Hyeonjin.
 
-I'm a front-end developer from The South Korea🇰🇷.
+I'm a Front-end developer from South Korea 🇰🇷.
 
 I enjoy creative activities, and I believe that my own daily routine is the pathway to creativity.
 
