@@ -1,3 +1,15 @@
+# 반가워요.👋🏻 제 이름은 조현진이고, 프론트엔드 개발자예요.
+
+저는 창조적인 활동을 좋아해요. 그리고 저는 창의력이 개개인의 고유한 루틴에서 나온다고 믿어요.
+
+웹개발은 제가 가장 좋아하는 창조적인 활동이에요.
+
+아직 프로그래밍에 대해 모르는 것이 많지만, 모르는 것에서 오는 두려움보다 기대감이 커요.
+
+아직 가보지 못한 곳이 많다는 것은 아직 탐험할 곳이 많이 남았다는 뜻이니까요.
+
+프로그래밍의 즐거움을 잃지 않도록, 일상의 루틴 속에 오늘도 정진!
+
 # Hi!👋🏻 I'm Hyeonjin.
 
 I'm a front-end developer from The South Korea🇰🇷.
@@ -5,6 +17,12 @@ I'm a front-end developer from The South Korea🇰🇷.
 I enjoy creative activities, and I believe that my own daily routine is the pathway to creativity.
 
 Web development is one of my favorite creative pursuits.
+
+There's still a lot I don't know about programming, but my expectations are as high as my fears due to ignorance.
+
+Because there are many places I haven't explored, indicating there's still much to discover.
+
+I love programming, and I love my life!
 
 ## Languages
 
