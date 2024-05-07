@@ -4,7 +4,7 @@ I'm a front-end developer, particularly passionate about 3D graphics rendering t
 
 Furthermore, I'm keen on 2D graphics and interaction tasks utilizing the Canvas API.
 
-Currently, I aspire to transition my career into the field of XR and AR engineering on the web.
+I currently aspire to specialize in XR and AR engineering on the web.
 
 I've enjoyed creative activities based on spatial perception. 3D graphics work on the web is an extension of that.
 
