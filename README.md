@@ -1,18 +1,26 @@
 # Hi!👋🏻 I'm Hyeonjin.
 
-I'm a front-end developer, particularly passionate about 3D graphics rendering tasks using WebGL/WebGPU libraries like Three.js, R3F, Babylon.js, etc.
+I'm a Front-end developer with a keen interest in 3D graphics rendering tasks using WebGL/WebGPU libraries like Three.js, Babylon.js, etc.
 
-Furthermore, I'm keen on 2D graphics and interaction tasks utilizing the Canvas API.
+Therefore, my current aim is to specialize in XR engineering within the field of front-end development.
 
-I currently aspire to specialize in XR and AR engineering on the web.
+I'm a person who enjoys the process of turning abstract ideas into concrete ones.
 
-I've enjoyed creative activities based on spatial perception. 3D graphics work on the web is an extension of that.
+There's exhilaration in seeing the unseen materialize into tangible creations.
 
-When I write code considering coordinates, velocity, light, and so forth, a world resembling reality is created in the web browser.
+Thus,  I consider it a natural progression that I find interest in tasks involving the implementation of virtual realities
 
-Such tasks possess an irresistible allure that makes me lose track of time!
+resembling the real world using mathematical concepts such as vectors, trigonometric functions, circles, and the like.
 
-So, I will continuously strive to develop myself with the aim of becoming a web XR and AR engineer.✨
+In the process of acquiring technical skills, I encounter both big and small challenges.
+
+However, knowing that I can produce great work once I surpass those challenges, I willingly embrace the process.
+
+✨
+
+Thanks for reading about me!
+
+Wishing you a great day. :)
 
 
 # Language
